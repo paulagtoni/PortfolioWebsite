@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introducción</title>
+    <link>http://paulagtoni.com/es/</link>
+    <description>Recent content on Introducción</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 23 Sep 2020 17:03:44 +0200</lastBuildDate>
+    
+	<atom:link href="http://paulagtoni.com/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TFG</title>
+      <link>http://paulagtoni.com/es/projects/fotography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://paulagtoni.com/es/projects/fotography/</guid>
+      <description>Detección de objetos en imágenes urbanas de Google Street ViewEste proyecto se basó en el desarrollo de un algoritmo de una base de datos formada a través de la extracción de imágenes de Google Street View a lo largo de diferentes rutas. Este programa también permite cambiar algunos parámetros para poder recoger los diferentes objetos que podemos encontrar en un entorno urbano con diferentes características y distorsiones. Luego, aplicamos un detector de objetos previamente entrenado y evaluamos la calidad de la detección en los diferentes grupos de imágenes.</description>
+    </item>
+    
+    <item>
+      <title>2. Confinamiento</title>
+      <link>http://paulagtoni.com/es/blog/second_post/</link>
+      <pubDate>Wed, 23 Sep 2020 17:03:44 +0200</pubDate>
+      
+      <guid>http://paulagtoni.com/es/blog/second_post/</guid>
+      <description>Hola! Estoy confinada :(</description>
+    </item>
+    
+    <item>
+      <title>1. Presentaciones</title>
+      <link>http://paulagtoni.com/es/blog/post1/</link>
+      <pubDate>Mon, 07 Sep 2020 18:28:47 +0200</pubDate>
+      
+      <guid>http://paulagtoni.com/es/blog/post1/</guid>
+      <description>¡Hola! Bueno lo primero me presento: Soy Paula, de Madrid. Estudié una ingeniería en una universidad pública cercana a mi casa y cuando la terminé al fin, me di cuenta de que, entre tanto estudio, me había quedado con las ganas de irme fuera a estudiar. Siempre he vivido en la misma ciudad, en la casa de mis padres, por lo que siempre me había rodeado de la misma gente y nunca había tenido que conocer gente nueva por mi cuenta (en el grado entré con gente que ya conocía).</description>
+    </item>
+    
+  </channel>
+</rss>

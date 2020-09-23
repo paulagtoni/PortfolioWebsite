@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekte on Vorstellung</title>
+    <link>http://paulagtoni.com/de/projects/</link>
+    <description>Recent content in Projekte on Vorstellung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="http://paulagtoni.com/de/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abschlussprojekt</title>
+      <link>http://paulagtoni.com/de/projects/fotography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://paulagtoni.com/de/projects/fotography/</guid>
+      <description>Objekterkennung in Stadtbildern aus Google Street ViewDieses Projekt basierte auf der Entwicklung eines Algorithmus einer Datenbank, die durch Extraktion von Bildern aus Googles Street View entlang verschiedener Routen gebildet wurde. Dieses Programm ermöglicht es auch, einige Parameter zu ändern, um die verschiedenen Objekte zu erfassen, die wir in einer städtischen Umgebung mit unterschiedlichen Merkmalen und Verzerrungen finden können. Dann haben wir einen vorab trainierten Objektdetektor angewendet und die Qualität der Erkennung für die verschiedenen Bildgruppen bewertet.</description>
+    </item>
+    
+  </channel>
+</rss>
